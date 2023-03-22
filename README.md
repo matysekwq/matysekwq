@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matouš
-- 👀 I’m interested in gaming and programming
+- 👀 I’m interested in gaming and programming (plastic bag level of programming)
 - 🌱 Currently learning C#, html and css
 - 📫 You can reach me on instagram @lil_bublina or on discord matysekwq#8516
 
